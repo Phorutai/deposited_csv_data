@@ -1,4 +1,4 @@
-Protein IDs,Protein names,Gene names,Control-LFQ intensity P18,Control-LFQ intensity P19,Control-LFQ intensity P20,Di-LFQ intensity P18,Di-LFQ intensity P19,Di-LFQ intensity P20,mean_ctrl,mean_treat,log2FC (treat:ctrl)
+Protein IDs,Protein names,Gene names,Control-LFQ intensity P18,Control-LFQ intensity P19,Control-LFQ intensity P20,Di-LFQ intensity P18,Di-LFQ intensity P19,Di-LFQ intensity P20,mean_ctrl,mean_treat,log2FC
 Q6NUM7;A0A024R640;Q9NUQ2,1-acyl-sn-glycerol-3-phosphate acyltransferase epsilon,AGPAT5,119690,196793,145850,157110,181292,165883,154111,168095,0.125306971
 Q9Y2I7;V9HWG4,1-phosphatidylinositol 3-phosphate 5-kinase,PIKFYVE;HEL37,1000,1000,1000,9485.7,11038,10129,1000,10217.56667,3.352979751
 Q00722;Q00722-3;Q00722-2;Q59F77;H0YNI4;Q9BVT6;Q6ZNQ9,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2;Phosphoinositide phospholipase C",PLCB2,13849,15480,14323,34038,39920,28690,14550.66667,34216,1.233585858
